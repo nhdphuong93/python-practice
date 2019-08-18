@@ -18,4 +18,4 @@ totalDigits = sum(char.isdigit() for char in inputData)
 
 print "LETTERS ", totalLetters
 
-print "DIGITs", totalDigits
+print "DIGITS", totalDigits
